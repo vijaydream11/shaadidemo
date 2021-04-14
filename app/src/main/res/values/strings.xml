@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">RepublicTVDemo</string>
+    <string name="app_name">ShaadiDemo</string>
 
     <!--User Details-->
     <string name="address">Address</string>
@@ -9,5 +9,10 @@
     <string name="post_code">Post Code :</string>
     <string name="no_of_followers">No of Followers :</string>
     <string name="na">NA</string>
+
+    <string name="accepted">You have been Accepted</string>
+    <string name="rejected">You have been Rejected</string>
+    <string name="loading">Loading...</string>
+
 
 </resources>
